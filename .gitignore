@@ -1,0 +1,10 @@
+# Java class files
+*.class
+
+# IntelliJ
+*.ipr
+*.iml
+*.iws
+
+#Generated Files
+out/
